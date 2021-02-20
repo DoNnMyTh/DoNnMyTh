@@ -8,6 +8,6 @@
 - 🌱 I’m currently diving in k8s.
 - 👯 I love to collaborate on Open-Source projects.
 - 💬 Ask me about books, best resources for learning Computer Science, research road-map.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/donnmyth/), [Twitter](https://twitter.com/doNnMyTh) and [website](https://www.hycorve.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/donnmyth/), [Twitter](https://twitter.com/doNnMyTh) and [Website](https://www.hycorve.com)
 - 😄 Pronouns: IDGAF (he/him)
-- ⚡ Fun fact: I love to learn new things.
+- ⚡ Fun fact: I love to learn new things, and solve new challenges everyday 😄.
