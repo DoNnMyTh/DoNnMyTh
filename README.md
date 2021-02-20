@@ -3,7 +3,7 @@
 
 ### About Me🚀
 
-- 🎓 I’m an Infrastructure & DevOps Engineering.
+- 🎓 I’m an Infrastructure & DevOps Engineer.
 - 🔭 I’m currently Unckecking checked boxes with Kubernetes, RHV and VMWare stack.
 - 🌱 I’m currently diving in k8s.
 - 👯 I love to collaborate on Open-Source projects.
