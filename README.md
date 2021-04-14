@@ -11,3 +11,4 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/donnmyth/), [Twitter](https://twitter.com/doNnMyTh) and [Website](https://www.hycorve.com)
 - 😄 Pronouns: IDGAF (he/him)
 - ⚡ Fun fact: I love to learn new things, and solve new challenges everyday 😄.
+- 🍕 Buy me a Pizza [here](https://www.buymeacoffee.com/DoNnM)
