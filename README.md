@@ -3,9 +3,8 @@
 
 ### About Me🚀
 
-- 🎓 Infrastructure & DevOps Engineer.
-- 🔭 Currently Unckecking checked boxes with Kubernetes, RHV and VMWare stack.
-- 🌱 I’m currently diving in K8s.
+- 🎓 SRE By day.
+- 🔭 Currently Unckecking checked boxes with Kubernetes Lots and Lots of kubernetes.
 - 👯 I love to collaborate on Open-Source projects.
 - 💬 Ask me about books, best resources for learning Computer Science, research road-map.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/donnmyth/), [Twitter](https://twitter.com/DoNnMyTh) and [Website](https://www.hycorve.com)
